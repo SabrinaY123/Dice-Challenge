@@ -4,6 +4,13 @@
   text-align: center;
 }
 
+.container-2 {
+  width:40%;
+  margin:auto;
+  text-align: center;
+  margin-top: 5rem;
+}
+
 .dice {
   text-align: center;
   display: inline-block;
@@ -30,6 +37,20 @@ p {
 
 img {
   width: 80%;
+}
+
+button {
+  padding: 2rem;
+  background-color: #4ECCA3;
+  color:#393E46;
+}
+
+button a {
+  font-family: 'Indie Flower', cursive;
+  color:#393E46;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 26px;
 }
 
 footer {
